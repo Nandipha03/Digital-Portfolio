@@ -2,7 +2,7 @@
 
 ## Welcome
 
-Welcome to my digital portfolio. 
+Welcome to my digital portfolio.  
 This space presents my academic and professional development as an ICT Applications Development student, including my CV, work readiness training, and reflective practice.
 
 ---
@@ -53,5 +53,5 @@ This section will include structured reflections on:
 
 - GitHub Student Account: Evidence to be added  
 - GitHub Repository: This project repository  
-- GitHub Pages: Deployment link will be added once published  
+- GitHub Pages: Deployment link will be added once published  ages: Deployment link will be added once published  
 Reflections using the STAR method are included as part of this portfolio.
