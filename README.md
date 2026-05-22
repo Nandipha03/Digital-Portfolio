@@ -2,7 +2,7 @@
 
 ## Welcome
 
-Hello and welcome to my digital portfolio.
+Hello and Welcome to my digital portfolio!
 
 This portfolio showcases my work readiness training journey and includes evidence of my GitHub student account, curriculum vitae, mock interview experience, and reflections on the skills and tools used throughout the process.
 
