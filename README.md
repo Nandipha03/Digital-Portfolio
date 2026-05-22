@@ -22,18 +22,21 @@ I am an ICT student focused on front-end development and UI/UX design. My intere
 
 ### Curriculum Vitae
 A structured overview of my academic background, technical skills, and professional experience.  
+
 [View CV](CV.md)
 
 ---
 
 ### Reflections
-A documented learning journey using the STAR method, reflecting on key experiences including CV creation, mock interviews, and GitHub Pages deployment.  
+A documented learning journey using the STAR method, reflecting on key experiences including CV creation, mock interviews, and GitHub Pages deployment. 
+
 [View Reflections](Reflections.md)
 
 ---
 
 ### Mock Interview
 A recorded professional mock interview completed as part of work readiness training, demonstrating communication skills, confidence, and interview preparedness.
+
 [Have a Watch](https://drive.google.com/file/d/1_c5Jb5xEPc0yFJUKy8T6w3678DoOFPua/view?usp=drive_link)
 
 ## Skills Focus
