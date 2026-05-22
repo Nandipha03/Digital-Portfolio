@@ -35,8 +35,7 @@ A documented learning journey using the STAR method, reflecting on key experienc
 ### Mock Interview
 A recorded professional mock interview completed as part of work readiness training, demonstrating communication skills, confidence, and interview preparedness.
 
-Mock Interview Video → [Watch here](https://drive.google.com/file/d/1_c5Jb5xEPc0yFJUKy8T6w3678DoOFPua/view?usp=drive_link)
----
+[Watch here](https://drive.google.com/file/d/1_c5Jb5xEPc0yFJUKy8T6w3678DoOFPua/view?usp=drive_link)---
 
 ## Skills Focus
 
