@@ -2,7 +2,7 @@
 
 ## Welcome
 
-Welcome to my digital portfolio!
+Welcome to my digital portfolio. 
 This space presents my academic and professional development as an ICT Applications Development student, including my CV, work readiness training, and reflective practice.
 
 ---
