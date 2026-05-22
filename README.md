@@ -1,58 +1,68 @@
-# Nandipha Galada – Digital Portfolio
-
-## Welcome
-
-Welcome to my digital portfolio.  
-This space presents my academic and professional development as an ICT Applications Development student, including my CV, work readiness training, and reflective practice.
+# Nandipha Galada  
+### ICT Applications Development Student  
+Front-End Development | UI/UX Design | Web Development
 
 ---
 
-## Portfolio Overview
+## Overview
 
-This portfolio includes:
+Welcome to my digital portfolio. This space presents my growth as an ICT Applications Development student, combining academic learning, practical experience, and a strong focus on front-end development and UI/UX design.
 
-- Curriculum Vitae (CV)
-- Mock Interview Experience
-- Reflective Practice (STAR Method)
-- Evidence of GitHub usage
-- GitHub Pages deployment
+I am passionate about creating user-centred digital experiences that balance functionality, structure, and visual clarity.
 
 ---
 
-## About This Portfolio
+## About Me
 
-This portfolio reflects my journey as an ICT Applications Development student, combining academic learning with practical experience, and personal growth in technology and web development. It highlights my focus on front-end development and UI/UX design, where I aim to build intuitive and user-centred digital experiences. Alongside technical development, I am strengthening my problem-solving, communication, and design thinking skills as I grow into a more intentional and well-rounded developer.
-
----
-
-## Documents
-
-- View CV: [Curriculum Vitae](CV.md)
-- View Reflections: [Reflections](Reflections.md)
+I am an ICT student focused on front-end development and UI/UX design. My interests lie in building clean, intuitive interfaces and understanding how users interact with digital systems. I am continuously developing my technical and creative skills, with an emphasis on thoughtful design, problem-solving, and real-world application of web technologies.
 
 ---
 
-## Mock Interview
+## Portfolio
 
-A mock interview was conducted as part of my work readiness preparation. The purpose of this exercise was to develop confidence, improve communication skills, and practice responding to common interview questions in a professional manner. A video recording of the mock interview will be added here once finalised and uploaded.
-
----
-
-## Reflections
-
-This section will include structured reflections on:
-
-- Markdown development process  
-- Mock interview experience  
-- GitHub Pages deployment and publishing  
-
-(All reflections will follow the STAR method)
+### CV
+A structured overview of my academic background, technical skills, and professional experience.  
+→ [View CV](CV.md)
 
 ---
 
-## Evidence
+### Reflections
+A documented learning journey using the STAR method, reflecting on key experiences including CV creation, mock interviews, and GitHub Pages deployment.  
+→ [View Reflections](Reflections.md)
 
-- GitHub Student Account: Evidence to be added  
-- GitHub Repository: This project repository  
-- GitHub Pages: Deployment link will be added once published  ages: Deployment link will be added once published  
+---
+
+### Mock Interview
+A recorded professional mock interview completed as part of work readiness training, demonstrating communication skills, confidence, and interview preparedness.
+
+---
+
+## Skills Focus
+
+- Front-End Development  
+- UI/UX Design Principles  
+- HTML, CSS, JavaScript  
+- Git & GitHub Version Control  
+- Problem Solving & Logical Thinking  
+- Communication & Team Collaboration  
+
+---
+
+## Experience Snapshot
+
+- Customer Service Experience (Teleperformance)  
+- Group Software Development Project (UniResApp)  
+- Independent Learning in Web Development & UI/UX Concepts  
+
+---
+
+## Deployment
+
+This portfolio is hosted using GitHub Pages and reflects my ability to structure, develop, and deploy a functional web-based project environment.
+
+---
+
+## Closing Note
+
+This portfolio reflects not only my academic progress, but also my intention to grow into a developer who values both technical precision and thoughtful user experience design.ed  
 Reflections using the STAR method are included as part of this portfolio.
