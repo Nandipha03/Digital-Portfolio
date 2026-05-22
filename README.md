@@ -6,7 +6,7 @@ Front-End Development | UI/UX Design | Web Development
 
 ## Overview
 
-Welcome to my digital portfolio. This space presents my growth as an ICT Applications Development student, combining academic learning, practical experience, and a strong focus on front-end development and UI/UX design.
+Welcome to my digital portfolio! This space presents my growth as an ICT Applications Development student, combining academic learning, practical experience, and a strong focus on front-end development and UI/UX design.
 
 I am passionate about creating user-centred digital experiences that balance functionality, structure, and visual clarity.
 
