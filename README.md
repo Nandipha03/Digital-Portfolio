@@ -2,7 +2,7 @@
 
 ## Welcome
 
-Welcome to my digital portfolio.  
+Welcome to my digital portfolio!
 This space presents my academic and professional development as an ICT Applications Development student, including my CV, work readiness training, and reflective practice.
 
 ---
@@ -21,7 +21,7 @@ This portfolio includes:
 
 ## About This Portfolio
 
-This portfolio reflects my journey as an ICT Applications Development student, combining academic learning with practical experience and personal growth in technology and web development. It highlights my focus on front-end development and UI/UX design, where I aim to build intuitive and user-centred digital experiences. Alongside technical development, I am strengthening my problem-solving, communication, and design thinking skills as I grow into a more intentional and well-rounded developer.
+This portfolio reflects my journey as an ICT Applications Development student, combining academic learning with practical experience, and personal growth in technology and web development. It highlights my focus on front-end development and UI/UX design, where I aim to build intuitive and user-centred digital experiences. Alongside technical development, I am strengthening my problem-solving, communication, and design thinking skills as I grow into a more intentional and well-rounded developer.
 
 ---
 
