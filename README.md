@@ -28,6 +28,7 @@ This portfolio reflects my journey as an ICT Applications Development student, c
 ## Documents
 
 - View CV: [Curriculum Vitae](CV.md)
+- View Reflections: [Reflections](Reflections.md)
 
 ---
 
